@@ -23,7 +23,15 @@
 ## Survey
 Toward understanding compiler bugs in GCC and LLVM [ISSTA2016]
 
-## Generation-based Program Construction
+## Program Construction
+
+### Generation-based
+
+### Transformation-based
+
+#### Semantics-preserving
+
+#### Non-semantics-preserving
 
 ## Test Program
 
