@@ -7,6 +7,7 @@
 + Finding and understanding bugs in C compilers [PLDI2011]
 + Swarm Testing [ISSTA2012]
 + Random Testing of C Compilers Targeting Arithmetic Optimization [IPSJ Transactions on System LSI Design Methodology2012]
++ Test-Case Reduction for C Compiler Bugs [PLDI2012]
 + Compiler Testing via a Theory of SoundOptimisations in the C11/C++11 Memory Model [PLDI2013]
 + Compiler Validation via Equivalence Modulo Inputs [PLDI2014]
 + Reinforcing Random Testing of Arithmetic Optimization of C Compilers by Scaling up Size and Number of Expression [IPSJ Transactions on System LSI Design Methodology2014]
@@ -95,9 +96,10 @@
 
 ## > Auxiliary
 
-### >> Test Program reduction
+### >> Test Program Reduction
 + Yesterday, My Program Worked. Today, It Does Not. Why? [ACM SIGSOFT Software Engineering Notes1999]
 + Simplifying and Isolating Failure-Inducing Input [TSE2002]
++ Test-Case Reduction for C Compiler Bugs [PLDI2012]
 + Cause Reduction: Delta Debugging, Even without Bugs [Software Testing, Verification & Reliability2016]
 + Probabilistic Delta Debugging [FSE2021]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI2021]
