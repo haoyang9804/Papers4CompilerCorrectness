@@ -121,5 +121,6 @@
 
 ## > Compiler Component (only list the research efforts for a single or several compiler components)
 + Randomized Stress-Testing of Link-Time Optimizers [ISSTA2015] -> Optimizer of GCC/LLVM
++ Practical Validation of Bytecode to Bytecode JIT Compiler Dynamic Deoptimization [2016] -> Dynamic Deoptimization of JIT compilers
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA2023] -> High-level optimization of TVM
 
