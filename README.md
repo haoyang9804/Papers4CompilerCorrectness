@@ -5,6 +5,7 @@ A list of papers for or related to compiler testing
 + Yesterday, My Program Worked. Today, It Does Not. Why? [FSE1999]
 + Simplifying and Isolating Failure-Inducing Input [TSE2002]
 + Metamorphic Testing: A New Approach for Generating Next Test Cases [Technical Report HKUST-CS98-01 2002]
++ Practical Testing of a C99 Compiler Using Output Comparison [2007]
 + Finding and understanding bugs in C compilers [PLDI2011]
 + Swarm Testing [ISSTA2012]
 + Random Testing of C Compilers Targeting Arithmetic Optimization [IPSJ Transactions on System LSI Design Methodology2012]
