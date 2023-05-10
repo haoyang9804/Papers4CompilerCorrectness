@@ -13,6 +13,7 @@
 + Compiler Validation via Equivalence Modulo Inputs [PLDI2014]
 + Reinforcing Random Testing of Arithmetic Optimization of C Compilers by Scaling up Size and Number of Expression [IPSJ Transactions on System LSI Design Methodology2014]
 + Finding Deep Compiler Bugs via Guided Stochastic Program Mutation [OOPSLA2015]
++ Randomized Stress-Testing of Link-Time Optimizers [ISSTA2015]
 + Toward understanding compiler bugs in GCC and LLVM [ISSTA2016]
 + Finding compiler bugs via live code mutation [OOPSLA2016]
 + Generating Focused Random Tests Using Directed Swarm Testing [ISSTA2016]
@@ -115,3 +116,10 @@
 
 ### >> Differential Testing
 + Practical Testing of a C99 Compiler Using Output Comparison [2007]
++ Finding and understanding bugs in C compilers [PLDI2011]
++ Randomized Stress-Testing of Link-Time Optimizers [ISSTA2015]
+
+## > Compiler Component (only list the research efforts for a single or several compiler components)
++ Randomized Stress-Testing of Link-Time Optimizers [ISSTA2015] -> Optimizer of GCC/LLVM
++ Fuzzing Deep Learning Compilers with HirGen [ISSTA2023] -> High-level optimization of TVM
+
