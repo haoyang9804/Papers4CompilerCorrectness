@@ -4,6 +4,7 @@
 
 ### >> GCC/LLVM
 
++ Practical Testing of a C99 Compiler Using Output Comparison [2007]
 + Finding and understanding bugs in C compilers [PLDI2011]
 + Swarm Testing [ISSTA2012]
 + Random Testing of C Compilers Targeting Arithmetic Optimization [IPSJ Transactions on System LSI Design Methodology2012]
@@ -110,4 +111,7 @@
 + History-Guided Configuration Diversification for Compiler Test-Program Generation [ASE2019]
 
 
+## > Test Oracle
 
+### >> Differential Testing
++ Practical Testing of a C99 Compiler Using Output Comparison [2007]
