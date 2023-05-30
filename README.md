@@ -202,7 +202,6 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
-
 ## Test Program Prioritization
 
 + Taming Compiler Fuzzers [PLDI '13]
