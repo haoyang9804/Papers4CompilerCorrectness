@@ -13,7 +13,15 @@ jobs:
           git clone https://github.com/haoyang9804/haoyang9804.github.io.git website
           cd website
           pwd
-      - name: test
-        run: |
+      - name: update docs/CompilerCorrectness.md
+        run:
+          cp README.md website/docs/CompilerCorrectness.md
+      - name: update my website
+        run:
+          cd website
           pwd
-          ls
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "update CompilerCorrectness.md"
+          git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/haoyang9804/haoyang9804.github.io
