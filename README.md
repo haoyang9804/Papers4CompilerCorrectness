@@ -1,6 +1,6 @@
 # An Ever-growing Paper List for Compiler Correctness
 
-[View on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
+[view on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
 
 ## Target Compiler
 
@@ -31,7 +31,7 @@
 + CsmithEdge: more effective compiler testing by handling undefined behaviour less conservatively [Empirical Software Engineering '22]
 + Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
 + Enriching Compiler Testing with Real Program from Bug Report
-[ASE '22]
+  [ASE '22]
 
 ### JVM (JVM implementations & Compilers for JVM langauges)
 
@@ -72,7 +72,7 @@
 + CyFuzz: A Differential Testing Framework for Cyber-Physical Systems Development Environments [2017] 
 + Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge [ICSE '18]
 + SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS
-Models for Finding Compiler Bugs in Simulink [ICSE '20]
+  Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 
 ### Compiler Component
@@ -93,7 +93,7 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + An Empirical Study of Optimization Bugs in GCC and LLVM [Journal of Systems and Software '21]
 + An Empirical Study on Bugs in Python Interpreters [IEEE Transactions on Reliability '22]
 
-## Program Construction
+## Program Construction for Testing
 
 ### Generation-based
 
@@ -126,7 +126,7 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Finding compiler bugs via live code mutation [OOPSLA '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
 + SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS
-Models for Finding Compiler Bugs in Simulink [ICSE '20]
+  Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
@@ -146,10 +146,22 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing [AAAI '19]
 + DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention [IJCNN '20]
 
-
-
-
 ## Testing Acceleration 
+
+### Test Program Prioritization
+
++ Test case prioritization for compilers: A text-vector based approach [ICST '16]
++ Learning to Prioritize Test Programs for Compiler Testing [ICSE '17]
++ Learning to Accelerate Compiler Testing [ICSE-Compannion '17]
++ Coverage Prediction for Accelerating Compiler Testing [TSE '18]
+
+### Test Suite Reduction
+
++ An intermediate representation approach to reducing test suites for retargeted compilers [Ada-Europe International Conference on Reliable Software Technologies '07]
++ An automated approach to reducing test suites for testing retargeted C compilers
+  for embedded systems [Journal of Systems and Software '11]
+
+## PostTesting && PreDebugging
 
 ### Test Program Reduction
 
@@ -160,6 +172,10 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Automatic Test Case Reduction for OpenCL [IWOCL '16]
 + Probabilistic Delta Debugging [FSE '21]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
+
+## Bug Deduplication
+
++ Taming Compiler Fuzzers [PLDI '13]
 
 ## Test Oracle
 
@@ -176,14 +192,14 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Finding and Analyzing Compiler Warning Defects [ICSE '16]
 + CyFuzz: A Differential Testing Framework for Cyber-Physical Systems Development Environments [2017] 
 + SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS
-Models for Finding Compiler Bugs in Simulink [ICSE '20]
+  Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Random Testing of Compilers’ Performance Based on Mixed Static and Dynamic Code Comparison [A-TEST '18]
 + Random testing for C and C++ compilers with YARPGen [OOPSLA '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + CsmithEdge: more effective compiler testing by handling undefined behaviour less conservatively [Empirical Software Engineering '22]
 + Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
 + Enriching Compiler Testing with Real Program from Bug Report
-[ASE '22]
+  [ASE '22]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
@@ -196,12 +212,11 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Finding compiler bugs via live code mutation [OOPSLA '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
 + SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS
-Models for Finding Compiler Bugs in Simulink [ICSE '20]
+  Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + An Automatic Testing Approach for Compiler Based on Metamorphic Testing Technique [Asia Pacific Software Engineering Conference 2010]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
-## Test Program Prioritization
 
-+ Taming Compiler Fuzzers [PLDI '13]
+
