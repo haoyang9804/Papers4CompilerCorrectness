@@ -1,0 +1,19 @@
+name: build
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: pull down my website
+        run: |
+          git clone https://github.com/haoyang9804/haoyang9804.github.io.git website
+          cd website
+          pwd
+      - name: test
+        run: |
+          pwd
+          ls
