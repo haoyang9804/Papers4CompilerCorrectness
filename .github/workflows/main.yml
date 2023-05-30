@@ -17,7 +17,7 @@ jobs:
         run:
           cp README.md website/docs/CompilerCorrectness.md
       - name: update my website
-        run:
+        run: |
           cd website
           pwd
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
