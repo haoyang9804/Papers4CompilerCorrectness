@@ -159,8 +159,6 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Probabilistic Delta Debugging [FSE '21]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 
-
-
 ## Test Oracle
 
 ### Differential Testing
