@@ -203,7 +203,6 @@ Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
 
-
 ## Test Program Prioritization
 
 + Taming Compiler Fuzzers [PLDI '13]
