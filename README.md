@@ -175,11 +175,11 @@
 + Probabilistic Delta Debugging [FSE '21]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 
-## Bug Deduplication
+### Bug Deduplication
 
 + Taming Compiler Fuzzers [PLDI '13]
 
-## Test Oracle
+## Test Oracle Design
 
 ### Differential Testing
 
@@ -220,5 +220,17 @@
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
+## Formal Verification of Realistic Compilers
 
++ A Formally Verified Compiler Back-end [Journal of Automated Reasoning '09]
++ Formal Verification of a Realistic Compiler [Communications of the ACM '09]
++ CompCert - A Formally Verified Optimizing Compiler [ERTS '16]
++ Closing the Gap -- The Formally Verified Optimizing Compiler CompCert [SSS '17]
++ CompCert: Practical Experience on Integrating and Qualifying a Formally Verified Optimizing Compiler [ERTS '18]
 
+## Translation Validation for Compilers
+
++ Translation Validation for an Optimizing Compiler [PLDI '00]
++ Compiler-agnostic Translation Validation [ISEC '18]
++ Language-Parametric Compiler Validation with Application to LLVM [ASPLOS '21]
++ Alive2: Bounded Translation Validation for LLVM [PLDI '21]
