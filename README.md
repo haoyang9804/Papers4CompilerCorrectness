@@ -53,6 +53,7 @@
 
 + A comprehensive study of deep learning compiler bugs [FSE '21]
 + An Empirical Study on Common Bugs in Deep Learning Compilers [ISSRE '21]
++ Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation [OOPSLA '22]
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
@@ -80,6 +81,7 @@
 + Randomized Stress-Testing of Link-Time Optimizers [ISSTA '15] -> Optimizer of GCC/LLVM
 + Practical Validation of Bytecode to Bytecode JIT Compiler Dynamic Deoptimization [2016] -> Dynamic Deoptimization of JIT compilers
 + RandIR: Differential Testing for Embedded Compilers [SCALA '16] -> Embedded DSL Compiler for Scala
++ Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation [OOPSLA '22] -> low-level part of TVM
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23] -> High-level optimization of TVM
 
 
