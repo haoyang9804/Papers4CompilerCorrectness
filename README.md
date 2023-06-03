@@ -1,12 +1,13 @@
 # An Ever-growing Paper List for Compiler Correctness
 
-The following list outlines research endeavors focused on maintaining compiler correctness, primarily covering the following three areas:
+The following list outlines research endeavors focused on maintaining the correctness of modern compilers, primarily covering the following three areas:
 
 + [Compiler Testing](#compiler-testing)
 + [Formal Verification of Realistic Compilers](#formal-verification-of-realistic-compilers)
 + [Translation Validation for Compilers](#translation-validation-for-compilers)
 
-As for other research efforts such as _test program reduction_, _test program deduplication_, _compiler debugging_, please refer to [this paper](https://dl.acm.org/doi/abs/10.1145/3363562)
+As for other research efforts such as _test program reduction_, _test program deduplication_, _compiler debugging_, please refer to [this paper](https://dl.acm.org/doi/abs/10.1145/3363562).
+You can also find some early research efforts on the testing of _"ancient"_ compilers (Ada compiler, Fortran compiler, etc) in this paper.
 
 We also provide a [categorization method](#target-compiler) based on the supported programming languages of the target compiler and the existing [bug surveys](#bug-survey) for better understanding compiler bugs.
 
@@ -144,11 +145,10 @@ We also provide a [categorization method](#target-compiler) based on the support
 + Language-Parametric Compiler Validation with Application to LLVM [ASPLOS '21]
 + Alive2: Bounded Translation Validation for LLVM [PLDI '21]
 
-
 ---
 ## Target Compiler
 
-### GCC/LLVM
+### C/C++ (GCC/LLVM/CompCert)
 
 + Practical Testing of a C99 Compiler Using Output Comparison ['07]
 + An Automatic Testing Approach for Compiler Based on Metamorphic Testing Technique [Asia Pacific Software Engineering Conference '10]
@@ -174,23 +174,31 @@ We also provide a [categorization method](#target-compiler) based on the support
 + An Empirical Study of Optimization Bugs in GCC and LLVM [Journal of Systems and Software '21]
 + CsmithEdge: more effective compiler testing by handling undefined behaviour less conservatively [Empirical Software Engineering '22]
 + Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
++ Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation [TSE '22]
 + Enriching Compiler Testing with Real Program from Bug Report [ASE '22]
 
-### JVM (JVM implementations & Compilers for JVM langauges)
+### Java Bytecode, Java/Kotlin/Scala/Groovy Source Code (JVM implementations/javac/kotlinc/scalac/groovyc)
 
 + Coverage-Directed Differential Testing of JVM Implementations [PLDI '16]
 + Deep Differential Testing of JVM Implementations [ICSE '19]
 + Well-typed programs can go wrong: A study of typing-related bugs in JVM compilers [OOPSLA '21]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
 + Compiler Testing using Template Java Programs [ASE '22]
++ Finding Typing Compiler Bugs [PLDI '22]
 
-### Python Interpreters
+### Python (PyPy/CPython)
 
 + An Empirical Study on Bugs in Python Interpreters [IEEE Transactions on Reliability '22]
 
-### JavaScript Interpreter && JavaScript Engine && JavaScript JIT compiler
+### JavaScript (JavaScript Engines)
 
 + Fuzzing with Code Fragments [USENIX '12]
++ FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
++ CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
++ A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
++ Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
++ Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
++ FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
 ### Deep Learning Compilers && Deep Learning Inference Engine
 
@@ -217,6 +225,10 @@ We also provide a [categorization method](#target-compiler) based on the support
 + Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge [ICSE '18]
 + SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
+
+### Rust
+
++ Fuzzing the Rust Typechecker Using CLP (T) [ASE '15]
 
 ## Bug Survey
 
