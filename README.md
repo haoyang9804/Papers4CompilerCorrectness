@@ -9,7 +9,7 @@ The following list outlines research endeavors focused on maintaining the correc
 As for other research efforts such as _test program reduction_, _test program deduplication_, _compiler debugging_, please refer to [this paper](https://dl.acm.org/doi/abs/10.1145/3363562).
 You can also find some early research efforts on the testing of _"ancient"_ compilers (Ada compiler, Fortran compiler, etc) in this paper.
 
-We also provide a [categorization method](#target-compiler) based on the supported programming languages of the target compiler and the existing [bug surveys](#bug-survey) for better understanding compiler bugs.
+We also provide a [categorization method](#target-compiler-of) based on the supported programming languages of the target compiler and the existing [bug surveys](#bug-survey) for better understanding compiler bugs.
 
 [view on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
 
@@ -146,7 +146,7 @@ We also provide a [categorization method](#target-compiler) based on the support
 + Alive2: Bounded Translation Validation for LLVM [PLDI '21]
 
 ---
-## Target Compiler
+## Target Compiler of
 
 ### C/C++ (GCC/LLVM/CompCert)
 
@@ -200,7 +200,7 @@ We also provide a [categorization method](#target-compiler) based on the support
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
-### Deep Learning Compilers && Deep Learning Inference Engine
+### Computaional Graph && Deep Learning Model
 
 + A comprehensive study of deep learning compiler bugs [FSE '21]
 + An Empirical Study on Common Bugs in Deep Learning Compilers [ISSRE '21]
@@ -208,18 +208,18 @@ We also provide a [categorization method](#target-compiler) based on the support
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
-### Parallel Programming Language Compilers
+### Parallel Programming Languages
 
 + Many-core compiler fuzzing [PLDI '15]
 + Compiler Fuzzing through Deep Learning [ISSTA '18]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 
-### Graphics Shader Compiler
+### Graphics Shader Languages
 
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 
-### Simulink Compiler
+### Simulink
 
 + CyFuzz: A Differential Testing Framework for Cyber-Physical Systems Development Environments [Conference: International Workshop on Design, Modeling, and Evaluation of Cyber Physical Systems '17] 
 + Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge [ICSE '18]
