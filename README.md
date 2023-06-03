@@ -150,7 +150,8 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 ### C/C++ (GCC/LLVM/CompCert)
 
-+ Practical Testing of a C99 Compiler Using Output Comparison ['07]
++ Practical Testing of a C99 Compiler Using Output Comparison [Software—Practice & Experience '07]
++ Volatiles are miscompiled, and what to do about it [EMSOFT '08]
 + An Automatic Testing Approach for Compiler Based on Metamorphic Testing Technique [Asia Pacific Software Engineering Conference '10]
 + Finding and understanding bugs in C compilers [PLDI '11]
 + Swarm Testing [ISSTA '12]
