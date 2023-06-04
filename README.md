@@ -70,7 +70,9 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Reinforcing Random Testing of Arithmetic Optimization of C Compilers by Scaling up Size and Number of Expression [IPSJ Transactions on System LSI Design Methodology '14]
 + Coverage-Directed Differential Testing of JVM Implementations [PLDI '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
++ FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
++ FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
 #### Deep-learning-based
 
@@ -194,6 +196,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 ### JavaScript (JavaScript Engines)
 
 + Fuzzing with Code Fragments [USENIX '12]
++ Skyfire: Data-Driven Seed Generation for Fuzzing [SP '17]
 + FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
 + A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
