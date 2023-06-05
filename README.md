@@ -69,6 +69,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
 + Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation [TSE '22]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
++ FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler [USENIX '23]
 
 #### Learning-based
 
@@ -117,6 +118,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
++ FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler [USENIX '23]
 
 #### Metamorphic Testing
 
@@ -204,6 +206,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
++ FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler [USENIX '23]
 
 ### Computaional Graph && Deep Learning Model
 
