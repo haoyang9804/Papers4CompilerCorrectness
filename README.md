@@ -32,7 +32,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
-#### Generation Optimization
+##### Generation Optimization
 
 + Swarm Testing [ISSTA '12]
 + Generating Focused Random Tests Using Directed Swarm Testing [ISSTA '16]
