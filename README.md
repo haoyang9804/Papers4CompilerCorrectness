@@ -65,6 +65,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
 + Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
 + SoFi: Reflection-Augmented Fuzzing for JavaScript Engines [CCS '21]
++ JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
 + Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation [TSE '22]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
@@ -109,6 +110,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Random Testing of Compilers’ Performance Based on Mixed Static and Dynamic Code Comparison [A-TEST '18]
 + Random testing for C and C++ compilers with YARPGen [OOPSLA '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
++ JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
 + CsmithEdge: more effective compiler testing by handling undefined behaviour less conservatively [Empirical Software Engineering '22]
 + Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
 + Enriching Compiler Testing with Real Program from Bug Report [ASE '22]
@@ -199,6 +201,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 + Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
 + SoFi: Reflection-Augmented Fuzzing for JavaScript Engines [CCS '21]
++ JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
