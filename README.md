@@ -64,6 +64,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
 + Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
++ SoFi: Reflection-Augmented Fuzzing for JavaScript Engines [CCS '21]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
 + Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation [TSE '22]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
@@ -197,6 +198,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
 + Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 + Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
++ SoFi: Reflection-Augmented Fuzzing for JavaScript Engines [CCS '21]
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
