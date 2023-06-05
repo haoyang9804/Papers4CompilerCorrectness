@@ -13,22 +13,13 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 [view on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
 
-## Bug Survey
-
-+ Toward understanding compiler bugs in GCC and LLVM [ISSTA '16]
-+ A Survey of Compiler Testing [ACM Computing Surveys '19]
-+ Well-typed programs can go wrong: A study of typing-related bugs in JVM compilers [OOPSLA '21]
-+ A comprehensive study of deep learning compiler bugs [FSE '21]
-+ An Empirical Study on Common Bugs in Deep Learning Compilers [ISSRE '21]
-+ An Empirical Study of Optimization Bugs in GCC and LLVM [Journal of Systems and Software '21]
-+ An Empirical Study on Bugs in Python Interpreters [IEEE Transactions on Reliability '22]
-
 ## Compiler Testing
 
 ### Program Construction for Testing
 
 #### Generation-based
 
++ Volatiles are miscompiled, and what to do about it [EMSOFT '08]
 + Finding and understanding bugs in C compilers [PLDI '11]
 + Random Testing of C Compilers Targeting Arithmetic Optimization [IPSJ Transactions on System LSI Design Methodology '12]
 + Fuzzing with Code Fragments [USENIX '12]
@@ -71,14 +62,19 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Coverage-Directed Differential Testing of JVM Implementations [PLDI '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
 + FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
++ CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
++ Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
++ Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation [TSE '22]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 
-#### Deep-learning-based
+#### Learning-based
 
++ Skyfire: Data-Driven Seed Generation for Fuzzing [SP '17]
 + Compiler Fuzzing through Deep Learning [ISSTA '18]
 + DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing [AAAI '19]
 + DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention [IJCNN '20]
++ Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 
 ### Testing Acceleration 
 
@@ -199,7 +195,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Skyfire: Data-Driven Seed Generation for Fuzzing [SP '17]
 + FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
-+ A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
++ Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 + Fuzzing JavaScript Engines with Aspect-preserving Mutation [S&P '20]
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
