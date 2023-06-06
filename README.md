@@ -227,6 +227,10 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 + Fuzzing the Rust Typechecker Using CLP (T) [ASE '15]
 
+### IL (.NET Common Language Runtime (CLR) JIT compiler)
+
++ Will you still compile me tomorrow? static cross-version compiler validation [FSE '13]
+
 ## Bug Survey
 
 + Toward understanding compiler bugs in GCC and LLVM [ISSTA '16]
