@@ -212,6 +212,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 ### Graphics Shader Languages
 
++ Metamorphic testing for (graphics) compilers [MET '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 
