@@ -172,6 +172,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 + Coverage-Directed Differential Testing of JVM Implementations [PLDI '16]
 + Practical Validation of Bytecode to Bytecode JIT Compiler Dynamic Deoptimization [The Journal of Object Technology '16]
++ RandIR: Differential Testing for Embedded Compilers [SCALA '16]
 + Deep Differential Testing of JVM Implementations [ICSE '19]
 + Well-typed programs can go wrong: A study of typing-related bugs in JVM compilers [OOPSLA '21]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
