@@ -53,7 +53,6 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
-+ Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
 ##### Non-semantics-preserving
