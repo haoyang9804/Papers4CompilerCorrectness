@@ -79,19 +79,6 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention [IJCNN '20]
 + Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 
-### Testing Acceleration 
-
-#### Test Program Prioritization
-
-+ Test case prioritization for compilers: A text-vector based approach [ICST '16]
-+ Learning to Prioritize Test Programs for Compiler Testing [ICSE '17]
-+ Learning to Accelerate Compiler Testing [ICSE-Compannion '17]
-+ Coverage Prediction for Accelerating Compiler Testing [TSE '18]
-
-#### Test Suite Reduction
-
-+ An intermediate representation approach to reducing test suites for retargeted compilers [Ada-Europe International Conference on Reliable Software Technologies '07]
-+ An automated approach to reducing test suites for testing retargeted C compilers for embedded systems [Journal of Systems and Software '11]
 
 ### Test Oracle Design
 
@@ -184,6 +171,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 ### Java Bytecode, Java/Kotlin/Scala/Groovy Source Code (JVM implementations/javac/kotlinc/scalac/groovyc)
 
 + Coverage-Directed Differential Testing of JVM Implementations [PLDI '16]
++ Practical Validation of Bytecode to Bytecode JIT Compiler Dynamic Deoptimization [The Journal of Object Technology '16]
 + Deep Differential Testing of JVM Implementations [ICSE '19]
 + Well-typed programs can go wrong: A study of typing-related bugs in JVM compilers [OOPSLA '21]
 + History-Driven Test Program Synthesis for JVM Testing [ICSE '22]
