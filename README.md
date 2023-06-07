@@ -104,6 +104,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Boosting Compiler Testing via Compiler Optimization Exploration [TOSEM '22]
 + Enriching Compiler Testing with Real Program from Bug Report [ASE '22]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
++ JIT-Picking: Differential Fuzzing of JavaScript Engines [CCS '22]
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 + FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler [USENIX '23]
@@ -196,6 +197,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + SoFi: Reflection-Augmented Fuzzing for JavaScript Engines [CCS '21]
 + JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
 + Automated conformance testing for JavaScript engines via deep compiler fuzzing [PLDI '21]
++ JIT-Picking: Differential Fuzzing of JavaScript Engines [CCS '22]
 + FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities [NDSS '23]
 + FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler [USENIX '23]
 
