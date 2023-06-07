@@ -85,7 +85,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 #### Differential Testing
 
-+ Practical Testing of a C99 Compiler Using Output Comparison ['07]
++ Practical Testing of a C99 Compiler Using Output Comparison [Software—Practice & Experience '07]
 + Finding and understanding bugs in C compilers [PLDI '11]
 + Will you still compile me tomorrow? static cross-version compiler validation [FSE '13]
 + Compiler Testing via a Theory of Sound Optimisations in the C11/C++11 Memory Model [PLDI '13]
