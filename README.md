@@ -13,9 +13,9 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 [view on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
 
-## Compiler Testing
+## Compiler Fuzzing
 
-### Program Construction for Testing
+### Program Construction for Fuzzing
 
 #### Generation-based
 
