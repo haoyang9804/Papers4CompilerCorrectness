@@ -75,7 +75,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 #### Learning-based
 
-+ Skyfire: Data-Driven Seed Generation for Fuzzing [SP '17]
++ Skyfire: Data-Driven Seed Generation for Fuzzing [S&P '17]
 + Compiler Fuzzing through Deep Learning [ISSTA '18]
 + DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing [AAAI '19]
 + DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention [IJCNN '20]
@@ -192,7 +192,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 ### JavaScript (JavaScript Engines)
 
 + Fuzzing with Code Fragments [USENIX '12]
-+ Skyfire: Data-Driven Seed Generation for Fuzzing [SP '17]
++ Skyfire: Data-Driven Seed Generation for Fuzzing [S&P '17]
 + FuzzIL: Coverage guided fuzzing for JavaScript engines [Master’s thesis, Karlsruhe Institute of Technology '18]
 + CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines [NDSS '19]
 + Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
