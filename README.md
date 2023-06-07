@@ -235,7 +235,6 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 ## Bug Survey
 
 + Toward understanding compiler bugs in GCC and LLVM [ISSTA '16]
-+ A Survey of Compiler Testing [ACM Computing Surveys '19]
 + Well-typed programs can go wrong: A study of typing-related bugs in JVM compilers [OOPSLA '21]
 + A comprehensive study of deep learning compiler bugs [FSE '21]
 + An Empirical Study on Common Bugs in Deep Learning Compilers [ISSRE '21]
