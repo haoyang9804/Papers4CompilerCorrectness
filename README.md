@@ -48,7 +48,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Many-core compiler fuzzing [PLDI '15]
 + Finding compiler bugs via live code mutation [OOPSLA '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
-+ SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS
++ SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
   Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
@@ -98,7 +98,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + CyFuzz: A Differential Testing Framework for Cyber-Physical Systems Development Environments [Conference: International Workshop on Design, Modeling, and Evaluation of Cyber Physical Systems '17] 
 + Random Testing of Compilers’ Performance Based on Mixed Static and Dynamic Code Comparison [A-TEST '18]
 + Finding missed compiler optimizations by differential testing [CC '18]
-+ SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
++ SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Random testing for C and C++ compilers with YARPGen [OOPSLA '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification [ICSE '21]
@@ -118,7 +118,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Many-core compiler fuzzing [PLDI '15]
 + Finding compiler bugs via live code mutation [OOPSLA '16]
 + Automated Testing of Graphics Shader Compilers [OOPSLA '17]
-+ SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
++ SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + An Automatic Testing Approach for Compiler Based on Metamorphic Testing Technique [Asia Pacific Software Engineering Conference '10]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
@@ -230,7 +230,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 + CyFuzz: A Differential Testing Framework for Cyber-Physical Systems Development Environments [Conference: International Workshop on Design, Modeling, and Evaluation of Cyber Physical Systems '17] 
 + Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge [ICSE '18]
-+ SLEMI:Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
++ SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 
 ### Rust
