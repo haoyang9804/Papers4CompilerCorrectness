@@ -52,6 +52,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
   Models for Finding Compiler Bugs in Simulink [ICSE '20]
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [PLDI '21]
++ Metamorphic Testing of Deep Learning Compilers [POMACS '22]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
@@ -121,6 +122,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + CUDAsmith: A Fuzzer for CUDA Compilers [COMPSAC '20]
 + An Automatic Testing Approach for Compiler Based on Metamorphic Testing Technique [Asia Pacific Software Engineering Conference '10]
 + Detecting Simulink compiler bugs via controllable zombie blocks mutation [FSE '22]
++ Metamorphic Testing of Deep Learning Compilers [POMACS '22]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
 ## Formal Verification of Realistic Compilers
@@ -208,6 +210,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + An Empirical Study on Common Bugs in Deep Learning Compilers [ISSRE '21]
 + Graph-based fuzz testing for deep learning inference engines [ICSE '21]
 + Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation [OOPSLA '22]
++ Metamorphic Testing of Deep Learning Compilers [POMACS '22]
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 
