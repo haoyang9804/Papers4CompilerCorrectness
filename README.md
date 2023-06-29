@@ -15,6 +15,11 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 
 ## Compiler Fuzzing
 
+### Studies
+
++ Compiler Fuzzing: How Much Does It Matter? [OOPSLA '19]
++ A Survey of Compiler Testing [ACM Computing Surveys '20]
+
 ### Program Construction for Fuzzing
 
 #### Generation-based
