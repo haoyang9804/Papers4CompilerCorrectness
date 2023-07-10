@@ -10,7 +10,6 @@ The following list outlines research endeavors focused on maintaining the correc
 As for other research efforts such as _test program reduction_, _test program deduplication_, _compiler debugging_, please refer to [this paper](https://dl.acm.org/doi/abs/10.1145/3363562).
 You can also find some early research efforts on the testing of _"ancient"_ compilers (Ada compiler, Fortran compiler, etc) in this paper.
 
-We also provide a [categorization method](#target-compiler-of) based on the supported programming languages of the target compiler and the existing [bug surveys](#bug-survey) for better understanding compiler bugs.
 
 [view on GitHub](https://github.com/haoyang9804/Papers4CompilerCorrectness)
 
