@@ -102,4 +102,5 @@ You can also find some early research efforts on the testing of _"ancient"_ comp
 + NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers [ASPLOS '23]
 + Fuzzing Deep Learning Compilers with HirGen [ISSTA '23]
 + RustSmith: Random Differential Compiler Testing for Rust [ISSTA Tool '23]
++ Vectorizing Program Ingredients for Better JVM Testing [ISSTA '23]
 
