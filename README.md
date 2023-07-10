@@ -86,7 +86,6 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention [IJCNN '20]
 + Montage: A Neural Network Language Model-Guided JavaScript Fuzzer [USENIX '20]
 
-
 ### Test Oracle Design
 
 #### Differential Testing
@@ -144,6 +143,12 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 + Compiler-agnostic Translation Validation [ISEC '18]
 + Language-Parametric Compiler Validation with Application to LLVM [ASPLOS '21]
 + Alive2: Bounded Translation Validation for LLVM [PLDI '21]
++ End-to-End Translation Validation for the Halide Language [OOPSLA '22]
+
+## Evaluation
+
++ Evaluating Fuzz Testing [CCS '18]
++ Revisiting the Evaluation of Deep Learning-Based Compiler Testing [IJCAI '23]
 
 ---
 ## Target Compiler of
@@ -241,6 +246,7 @@ We also provide a [categorization method](#target-compiler-of) based on the supp
 ### Rust
 
 + Fuzzing the Rust Typechecker Using CLP (T) [ASE '15]
++ RustSmith: Random Differential Compiler Testing for Rust [ISSTA Tool '23]
 
 ### IL (.NET Common Language Runtime JIT compiler)
 
