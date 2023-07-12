@@ -2,7 +2,6 @@
 
 The following list outlines research endeavors focused on maintaining the correctness of modern compilers, primarily covering the following three areas:
 
-- [An Ever-growing Paper List for Compiler Correctness](#an-ever-growing-paper-list-for-compiler-correctness)
   - [Formal Verification of Realistic Compilers](#formal-verification-of-realistic-compilers)
   - [Translation Validation for Compilers](#translation-validation-for-compilers)
   - [Compiler Fuzzing](#compiler-fuzzing)
